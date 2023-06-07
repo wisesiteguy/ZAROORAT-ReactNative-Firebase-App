@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299261465376",
+    "project_id": "zaroorat-3dea9",
+    "storage_bucket": "zaroorat-3dea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299261465376:android:befe6735116bd2d831bd45",
+        "android_client_info": {
+          "package_name": "com.zaroorat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299261465376-bit776e72tt8i8edebja01m3107gmoa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0A24w7lPcT36eW0xVKuoL-2NUa7ynjQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299261465376-bit776e72tt8i8edebja01m3107gmoa5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
